@@ -10,4 +10,4 @@ https://itty.bitty.site/#einstein/data:text/html;charset=utf-8;bxze64,XQAAAAJWEQ
 
 shortened link:
 
-http://demo.polr.me/einstein
+http://bit.do/itty_bitty_einstein
